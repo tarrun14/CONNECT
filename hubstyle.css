@@ -355,7 +355,7 @@ body.dark hr {
 }
 .hero > * {
   position: relative;
-  z-index: 1;
+  z-index: 2;
 }
 /* ================= HUB BACKGROUND GLOW ================= */
 
@@ -805,3 +805,4 @@ body.dark .nav-profile img {
 .navbar {
   height: 64px;
 }
+
